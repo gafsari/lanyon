@@ -9,7 +9,7 @@ title:               'Lit & Data'
 tagline:             'Summer 2019'
 description:         'Course site for ENGL-UA 735: Readings in Contemporary Literature @ NYU'
 url:                 https://gafsari.github.io
-baseurl:             '/lanyon'
+baseurl:             '/litdata'
 paginate:            5
 
 # About/contact
