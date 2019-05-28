@@ -1,38 +1,154 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Readings in Contemporary Literature: Literature & Data
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+An English Department offering in critical methods and contemporary literature, this course asks, what do we learn when we take literary texts as substrates for studying the practice and ethics of data? We’ll focus on 21st-century North American fiction and poetics, especially as they represent the lived experiences of people of color, in order to better understand how the organization of “data” in turn organizes the ways in which we inhabit our nations and the world. This course is concerned with epistemologies rather than tools; while we’ll look a bit at digital technologies that facilitate data management, our conversation will foreground the linkages between data structures we encounter daily and long, fraught histories of organizing information as a means of control. Finally, we’ll apply our readings in order to consider how literature and its study can enable us to be more ethical, intentional, and just producers and consumers of data. No technical competency is expected.
 
-### Built on Poole
+### Objectives
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
+Due to this course’s interdisciplinary nature, its learning objectives foreground the relationship between practices of data management and critical engagement with literary texts. This course seeks to:
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+1. provide students with foundational knowledge about data structures and types
+2. expose students to contemporary debates in data authorship / production, storage, and deployment, especially in the context of data ethics in scholarship and the public sector
+3. help students contextualize their own encounters with “data” through careful reading of primary and secondary materials that privilege feminist, black, queer, and indigenous methodologies
+4. empower students to trace linkages between contemporary literature, contemporary imaginaries around “data,” and long histories of violence and oppression in and around North America
+5. support students as they develop the skills and methods to become more thoughtful, intentional, and justice-oriented consumers and producers of information
 
-### Lanyon features
 
-In addition to the features of Poole, Lanyon adds the following:
+### Site table of contents
 
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
+##### [List of course texts](#texts)
+##### [Course requirements](#requirements)
+##### [Full schedule of readings and due dates](#schedule)
+##### [Class policies](#policies)
+##### Files & resources
 
-[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
+<br/><br/><br/><br/><br/><br/>
 
-### Browser support
 
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+### <a name="texts"></a>List of course texts
+**_‘Raw Data’ is an Oxymoron_**, edited by Lisa Gitelman (MIT Press, 2013)
+**_Zong!_**, M. NourbeSe Philip (Mercury Press, 2008)
+**_Borderlands / La Frontera: The New Mestiza_**, Gloria Anzaldúa (1987)
+**_Behold the Dreamers_**, Imbolo Mbue (Penguin Random House, 2016)*
+**_Decolonizing Methodologies: Research and Indigenous Peoples_**, Linda Tuhiwai Smith (1999)
+**_Algorithms of Oppressio_**, Safiya Noble (NYU Press, 2018)
+**_Head Off & Split_**, Nikky Finney (Northwestern University Press, 2011)*
+**_Numbered Lives: Life and Death in Quantum Media_**, Jacqueline Wernimont (MIT Press, 2018)
+**_Severance_**, Ling Ma (FSG, 2018)*
+**_Open City_**, Teju Cole (Random House, 2011)*
 
-### Download
+* We’ll be reading this text in full.
 
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
+<br/><br/><br/>
 
-Thanks!
+### <a name="requirements"></a>Course requirements
+**Attendance, reading and participation (20%)**<br/>
+Summer classes are inherently small, making your attention and participation all the more important. This course is meant to be a collaborative, discussion-driven environment, and I hope you’ll arrive ready to engage earnestly and productively. In addition to discussing course readings, we’ll spend some time producing digital and physical data visualizations and exploring archival content. <br/><br/>
+
+**Presentation & guided class discussion (30%)**<br/>
+On each Monday between weeks three (3) and five (5), one student will share with the class her examination of an archival collection of her choice through the lens of the given week’s literary text. In other words, you’ll be tasked with locating and exploring a historical archive and tracking resonances that elucidate the connections between data structures in the week’s reading and those expressed in the historical materials. Your observations will help structure the second half of our class discussion (roughly an hour), which you’ll be charged with moderating. Archives should feature material prior to 1900. We’ll be modeling this assignment as a class in the second week. <br/><br/>
+
+**Response activities (15%)**<br/>
+You’ll be asked to engage with the material in a structured way twice in the course of the summer session. Activities are due in weeks 2 and 6. See the schedule below for details.  <br/><br/>
+
+**Final “paper” (35%)**<br/>
+In your final paper, you’ll put one of the literary texts we’ve read (or another contemporary text of your choosing) into conversation with a pressing debate or issue in “data.” By staging a close, analytic reading of one or two passages from the text, your paper should critique or respond to a question of data modeling, management, and/or deployment. You might choose to respond to a newspaper op-ed on data ethics, deconstruct and suggest alternatives for the metadata schema of an online database, or draft a letter to a city agency about the structure of the data they’ve published to their online repository, guided by the implications of the passage(s) you’re working with. Papers should be roughly 1500 words, or 800-1000 words if paired with a visual element. 
+
+<br/><br/><br/>
+
+
+### <a name="schedule"></a>Schedule of readings & due dates
+
+<br/>
+#### Unit 1: What we talk about when we talk about data 
+<br/>
+**Tuesday, May 28**
+Introductions<br/><br/>
+**Wednesday, May 29**
+Please register for and attend [“Data & Ethics: In the Public Sector for the Public Good?”](https://www.eventbrite.com/e/data-ethics-in-the-public-sector-for-the-public-good-tickets-61059812543)<br/>
+Event begins at 5:30 p.m. at Hemmerdinger Hall in the Silver Center.<br/><br/>
+**Monday, June 3**
+“Data before the Fact” by Daniel Rosenberg<br/>
+“Critical Questions for Big Data” by danah boyd & Kate Crawford<br/><br/>
+_Due: Activity #1, Event Response_ (See full syllabus for information)<br/><br/>
+
+#### Unit 2: Tabulation / who what why counts 
+
+**Tuesday, June 4**
+_Zong!_ by M. NourbeSe Philip — “Notanda” (pp. 189-209), “Gregson v. Gilbert” (pp. 210-211), and two poems of your choosing<br/><br/>
+**Wednesday, June 5**
+_Borderlands / La Frontera_ by Gloria Anzaldúa — Chapter 1: The Homeland, Aztlán (pp. 23-35) and “Interface” (pp. 170-174)<br/><br/>
+**Monday, June 10**
+_Behold the Dreamers_ by Imbolo Mbue<br/><br/>
+_Due: First student presentation_<br/><br/>
+**Tuesday, June 11**
+“Lehman Bros. used accounting trick amid financial crisis – and earlier” (CSM)
+Excerpt from “Digital Identity in the Migration & Refugee Context” (D&S)<br/><br/>
+**Wednesday, June 12**
+_Data Feminism_ by Catherine D’Ignazio and Lauren Klein — Chapter 1: Bring Back the Bodies (in draft online)<br/><br/>
+**Monday, June 17**
+_Severance_ by Ling Ma<br/><br>
+_Due: Second student presentation_<br/><br/>
+**Tuesday, June 18**
+_Numbered Lives: Life and Death in Quantum Media_ by Jacqueline Wernimont — Chapter 2: Counting the Dead (pp. 19-49, or as much as you can get to)<br/><br/>
+
+#### Unit 3: Taxonomies / black, feminist, queer, and indigenous critiques
+
+**Wednesday, June 19**
+_Decolonizing Methodologies: Research & Indigenous Peoples_ by Linda Tuhiwai Smith — “On Being Human” (pp. 25-28), “Research Through Imperial Eyes” (p. 42 through p. 47) and “Colonizing the Disciplines (pp. 65-68)<br/><br/>
+**Monday, June 24**
+_Head Off & Split_ by Nikky Finney<br/><br/>
+_Due: Third student presentation_<br/><br/>
+**Tuesday, June 25**
+“Queering the Catalog” by Emily Drabinski
+“Another Word for ‘Illegal Alien’ at the Library of Congress: Contentious” (NYT)<br/><br/>
+**Wednesday, June 26**
+_Algorithms of Oppression_ by Safiya Umoja Noble — Introduction: The Power of Algorithms (pp. 1-14)<br/><br/>
+
+#### Unit 4: Maps & linkages
+
+**Monday, July 1**
+_Open City_ by Teju Cole<br/><br/>
+_Due: Activity #2, Literary Data Set_ (See full syllabus for information)<br/><br/>
+**Tuesday, July 2**
+_Graphesis_ by Johanna Drucker — “Visualizing uncertainty and interpretative cartography” (pp. 125-137)
+**Wednesday, July 3**
+No class. Final paper consultations available.<br/><br/>
+**Sunday, July 7**
+Final paper due by 3 p.m.
+
+<br/><br/><br/><br/><br/><br/>
+
+### <a name="policies"></a>Class policies
+
+**Absences:** 
+Regular class attendance is expected; if you are unable to make it to class, please do your best to contact me beforehand. Three or more unexcused absences may result in a failing grade. Unexcused absences describe those due to reasons other than: acute (physical or mental) health concern; religious observance; mandatory, documented university activity; jury duty; other extenuating circumstances, on a case-by-case basis.
+
+**Late submissions:** 
+Late assignments will not be accepted; no extensions will be given except in extreme and verifiable circumstances. If you feel you will be unable to meet course requirements, please contact me as soon as possible.
+
+**Technology:** 
+You are welcome to read and reference texts and resources via phone, tablet, and/or computer. When we work with digital data visualization, you may be asked to bring a computer to class, if you have one. However, I ask that you grant your colleagues your full attention during discussion; in a small class, fruitful conversation depends on everyone’s participation and engagement. If necessary, we’ll revisit the technology policy as the course progresses to ensure we’re all contributing to a productive, encouraging classroom environment. 
+
+**Breaks & food:** 
+While I welcome food and drink in my classes, we are subject to the space use guidelines outlined by Bobst Library. Please adhere to any food and drink restrictions posted in the classroom. We will aim to have a break midway through each class session, but you are welcome to step out as necessary (within reason).
+
+**Academic integrity:** 
+All students are expected to adhere to [NYU’s academic integrity policy] (https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/academic-integrity-for-students-at-nyu.html). By taking this course, you agree to refrain from plagiarism, cheating, and other academic misconduct. While collaboration is encouraged, all work submitted must be your own. In synthesizing and expanding upon others’ ideas, be sure to use appropriate citations. Please consult the guidelines for standard citation formats (preferably MLA or Chicago), ensuring that your assignments are internally consistent. If you need assistance with citations, or have any concerns, please don’t hestitate to reach out. 
+
+**Disability & accessibility:** 
+Students with diverse learning styles and needs are welcome in this course. If you have a disability or other health consideration that would benefit from accommodations, please consider registering with the Moses Center for Students with Disabilities. You can begin an application with the Moses Center at [https://www.nyu.edu/students/communities-and-groups/students-with-disabilities.html](https://www.nyu.edu/students/communities-and-groups/students-with-disabilities.html). Please note that the Moses Center will not disclose your specific disability to your instructors: we only receive notice of the accommodations for which you have been approved. If you have been granted accommodations but feel they are not being adequately provided, please let me know so I can make any necessary changes.
+
+**Community and diversity:** 
+It is my intent that students of diverse backgrounds and perspectives be served well by this course, by me as an instructor, and by the classroom environment that we cultivate together. I hope that we can create a setting in which we are all able to respect and learn from one another. Guidelines for classroom discussion will be drafted collaboratively during the first session and will be posted to the course site; if necessary, we can revisit these guidelines as the term progresses. As in any group setting, I ask that we be mindful of the space we create for others and take up ourselves. By extension, I ask that you hold me accountable and let me know if anything said or done in the classroom, or in class-related activities outside the classroom, by either myself or another student, is particularly troubling. While discomfort can be conducive to learning, it should never come at the expense of student well-being or an atmosphere of trust. <br/>
+This course will directly explore questions of race, ethnicity, immigration status, socioeconomic status, and gender. I ask that all participants remain respectful of colleagues’ experiences and perspectives, and that we recognize that it’s often impossible to separate our experiences of “real life” from the theory and literature that we study. Because the critical power of literature lies precisely in its relevance to the practical, political, and experiential problems we face every day, I encourage you to draw those connections, permitted that your analytic work remains grounded in your key objects of study.<br/>
+
+Students have the right to be addressed using the name and pronouns with which they identify.
+
+**Language:** 
+NYU and the English Department welcome students from around the country and world. All of the readings for this course will be in English, and strong English proficiency will be assumed. If you require additional English language support, please feel free to reach out.
+
+**Land acknowledgment:** 
+I want to acknowledge that we live and work on the traditional land of the Lenape people past and present. The Lenape in what is now New York City were dislocated by the Treaty of Easton in 1758. As we think about the effects of data and the organization of information, I hope that we can keep in mind the ways in which information practices have contributed — and continue to contribute — to the displacement, genocide, and cultural “forgetting” of Native peoples in the Americas.<br/><br/><br/>
